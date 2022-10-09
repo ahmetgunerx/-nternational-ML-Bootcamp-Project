@@ -1,1 +1,1 @@
-# -nternational-ML-Bootcamp-Project
+# International-ML-Bootcamp-Project
